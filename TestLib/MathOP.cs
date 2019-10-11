@@ -12,5 +12,10 @@ namespace TestLib
         {
             return x + y;
         }
+
+        public static int Mult(int x, int y)
+        {
+            return x * y;
+        }
     }
 }
